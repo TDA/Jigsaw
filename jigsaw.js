@@ -4,7 +4,6 @@
 	var restart=document.getElementById('restart');
 	restart.className='hidden';
 	var result=document.getElementById('result');
-	
 	var questions={
 		question_1:{
 			img:'hawkeye.png',
